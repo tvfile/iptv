@@ -1,288 +1,198 @@
-#EXTM3U x-tvg-url="https://www.open-epg.com/generate/4Ctme5pWBw.xml.gz"
+#EXTM3U
 
-#Date 2026-06-09-14:01 to 16-17 final Up 4 Custom EPG 631 ch
-#Date 2026-06-09-13:04 Up 3 Custom EPG 643 ch
-#Date 2026-06-09-09:01 Up 2 Custom EPG
-#Date 2026-06-09-00:38 Up 1 Custom EPG
-#Date 2026-06-08-23:15 Up 1 Custom EPG
-#Date 2026-06-04-23:36 Up 3 epg all
-#Date 2026-06-04-20:47 Up 2 eg2
-#Date 2026-06-04-19:03 Up 1
-#Date 2026-06-03-10:25 Up 1 10:31 to 11:44 up2
-#Date 2026-06-02-18:30 Up 2
-#Date 2026-06-02-16:56 Up 1 end 16:56
-#Date 29-05-2026-15:30 Up 1 end 17:11
-#Date 26-05-2026-13:17 Up 2 final
-#Date 26-05-2026-11:52 Up 2
-#Date 26-05-2026-10:42 Up 1
-#Date 21-05-2026-21:42 Up 3
-#Date 21-05-2026-18:47 Up 2
-#Date 21-05-2026-15:32 Up 1
-#Date 20-05-2026-10:36 Up 1
-#Date 19-05-2026-13:20 Up 1
+#EXTINF:-1 tvg-id="DDBangla.in" tvg-logo="https://i.imgur.com/RHly9gC.png" group-title="Bangla",DD Bangla
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index.m3u8
+#https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcgFfWnmz7ZN9wlA2i-hKnnjMveQ6i1V1qsdycklSTxOqZIpvDhCSt0XU&s=10" group-title="Bangla",R. Bangla
+#https://vg-republictvyupp.akamaized.net/ptnr-yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-613605/d6261340-ae17-4ea8-91d0-44e44466dd6b/2.m3u8
+#https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8
+https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Zee 24 Ghanta
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zee24ghantaa-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",TV9 Bangla
+https://amg01106-tv9-amg01106c1-xiaomi-in-1073.playouts.now.amagi.tv/playlist/amg01106-tv9fast-tv9bangala-xiaomiin/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",ABP Ananda
+#https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-abpananda-xiaomi/playlist.m3u8
+#https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8
+https://abplive.vgcdn.net/ptnr-yupptv/title-Ananda/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ed99a686-d5e1-42d8-ba3c-719c604586c8/master.m3u8?hdnts=st%3D1752285033~exp%3D1752306633~acl%3D%21%2A%2Fptnr-yupptv%2Fti
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",News 18 Bangla
+https://amg00866-amg00866c8-xiaomi-in-3555.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RPlus.in" tvg-logo="https://i.imgur.com/XUnWcZF.png" group-title="Bangla",R Plus
+https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Bangla Jago
+http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",HIGH NEWS
+http://highmedia.livebox.co.in:80/HIGHNEWShls/LIVE.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/calcutta-news.png" group-title="Bangla",Calcutta News
+https://akdnetwork.co.in/live/cnnew/index.m3u8
 
-#2epg tags now
-#Date 16-05-2026-15:20 Up 3 jio + sam Epg diffrent attributions 
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="Bangla",Enter 10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Bangla +
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla", Movie Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1 tvg-id="KhushbooBangla.in@SD" group-title="Bangla",Khushboo Bangla (720p)
+https://cdn-4.pishow.tv/live/1473/master.m3u8
+#EXTINF:-1 tvg-id="ZBCinema.in" group-title="Bangla",ZB Cinema (720p)
+https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 
-#Date 16-05-2026-12:39 Up 1 Jio Epg Added 
-#409 channel approximately 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Sangeet Bangla
+https://cdn-4.pishow.tv/live/1143/master.m3u8
 
-#Date 14-05-2026-13:38 Up 1 Jio Epg Added 
-#409 channel approximately 
 
-#Date 13-05-2026-13:38 Up 5 Epg updated to gz back
-#409 channel approximately 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla", Star Jalsha
+https://tvsen3.aynaott.com/n64PH4YL/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla", Zee Bangla
+https://tvsen6.aynaott.com/ZeeBangla/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",ZEE Bangla HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/536.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla", Colors Bangla
+https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Colors Bangla HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/532.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla", Sun Bangla
+http://27.124.71.27/Sun_Bangla/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla", G Series Drama
+https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 
-#Date 13-05-2026-15:10 Up 4 Epg updated to tatasky gz not working 
-#409 channel approximately 
 
-#Date 13-05-2026-13:38 Up 3 Epg updated to gz
-#409 channel approximately 
 
-#Date 13-05-2026-13:19 Up 2 Epg updated 
-#409 channel approximately 
 
-#Date 13-05-2026-13:14 Up 1
-#409 channel approximately 
 
-#Date 12-05-2026-15:51 Up 1
-#409 channel approximately 
 
-#Date 11-05-2026-19:21 Up 3
-#407 channel approximately 
 
-#Date 11-05-2026-17:48 Up 2
-#407 channel approximately 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Hindi Movies",Sheemaroo Bollywood
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",B4U Movies
+https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",B4U Kadak
+https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="c7f57cda-5a87-48c5-a758-4273db0864d2" tvg-name="Goldmines" tvg-logo="https://s3.aynaott.com/storage/d6dd2e3ffede99b3f1d7d4fb8f5061a5" group-title="Hindi Movies",Goldmines
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+#EXTINF:-1 tvg-id="1f8a84b3-8079-4c29-9e73-f219664e9d4d" tvg-name="Goldmines Movies" tvg-logo="https://s3.aynaott.com/storage/26c1570891267164e40563806b25ccdb" group-title="Hindi Movies",Goldmines Movies
+https://cdn-2.pishow.tv/live/1461/master.m3u8
+#EXTINF:-1 tvg-id="ManoranjanGrand.in@SD" tvg-logo="https://i.imgur.com/qfMEz78.png" group-title="Hindi Movies",Manoranjan Grand
+https://cdn-1.pishow.tv/live/1011/master.m3u8
+#EXTINF:-1 tvg-id="ManoranjanMovies.in@SD" tvg-logo="https://i.imgur.com/oTBVML2.png" group-title="Hindi Movies",Manoranjan Movies
+https://cdn-2.pishow.tv/live/228/master.m3u8
 
-#Date 11-05-2026 Up 1 Time 16:53
-#407 channel approximately 
 
-#Date 10-05-2026 Up 1 Time 14:35
-#378 channel approximately 
-#Russian Channels Removed 
-#Not Working Channels Removed 
 
-#Date 09-05-2026 Up 4 Time 23:45
-#583 channel approximately 
-
-#Date 09-05-2026 Up 3 Time 23:15
-#583 channel approximately 
-
-#Update 09-05-2026 Time 20:18
-#final up 2 at 20:13
-#582 channel approximately 
-
-#Update 09-05-2026 Time 16:34
-#final up 1 at 18:09
-#571 channel approximately 
-
-#Update 08-05-2026 Time 13:34
-#570 channel approximately 
-
-#01 GEC HINDI
-#02 Movies Hindi
-#03 Infotainment
-#04 
-
-#ENTERTAINMENT HINDI
-#01 GEC HINDI OK TOP 
-
-#EXTINF:-1 tvg-id="STARUtsav.in" tvg-name="STARUtsav.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_UTSAV/images/LOGO_HD/image.png" group-title="IN | TOP",STAR UTSAV #️⃣ 1
-http://103.253.18.58:8000/play/a07f
-#EXTINF:-1 tvg-id="SONYSABHD.in" tvg-logo="https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540" group-title="IN | TOP",SONY SAB HD [AIRTEL]  #️⃣ 2
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:17:01:63&stream=944604&extension=ts&play_token=nqmlNDpzw0
-#EXTINF:-1 tvg-id="ZeeTVHD.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYLG3.png?lock=720x540" group-title="IN | TOP",ZEE TV HD [AIRTEL] #️⃣ 3
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:17:01:63&stream=735398&extension=ts&play_token=GINYcm8A3B
-#EXTINF:-1 tvg-id="Dangal.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DANGAL/images/LOGO_HD/image.png" group-title="IN | TOP",Dangal TV #️⃣ 4
-https://live-dangal.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="STARPlusHD.in" tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="IN | TOP",STAR PLUS HD (AIRTEL) #️⃣ 5
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:17:01:63&stream=671571&extension=ts&play_token=5iDIq6wufB
-
-#01.1 GEC HINDI OK TOP 
-
-#EXTINF:-1 tvg-id="AnjanTV.in" tvg-logo="https://i.imgur.com/sh0yFSf.png" group-title="IN | HINDI GEC",Anjan TV (576p)
-https://cdn-1.pishow.tv/live/993/master.m3u8
-
-#701
-#EXTINF:-1 tvg-id="Dangal.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DANGAL/images/LOGO_HD/image.png" group-title="IN | HINDI GEC",Dangal TV (720p) DangalTV.in@SD
-https://live-dangal.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="Dangal2.in" tvg-logo="https://raw.githubusercontent.com/13balvinder/Logos/refs/heads/main/LOGOS/INDIA/Dangal2.png" group-title="IN | HINDI GEC",Dangal 2 (720p)
-https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
-#158
-#EXTINF:-1 tvg-id="DDNationalHD.in" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20National.png" group-title="IN | HINDI GEC",DD National HD (1080p) DDNational.in@HD
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
-#EXTINF:-1 tvg-id="DDNationalHD.in" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20National.png" group-title="IN | HINDI GEC",DD National SD (576p) DDNational.in@SD
-https://cdn-1.pishow.tv/live/11/master.m3u8
-#EXTINF:-1 tvg-id="DDSportsHD.in" tvg-logo="https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png?lock=720x540" group-title="IN | HINDI GEC",DD Sports SD (1080p)
+#EXTINF:-1 tvg-id="" group-title="Sports",DD Sports HD (1080p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
-#481
-#EXTINF:-1 tvg-id="EPIC.in" epg-id="1" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/EPIC_TV.png" group-title="IN | HINDI GEC",Epic TV (1080p)
-https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8
-#3383
-#EXTINF:-1 tvg-id="NAZARA.in" tvg-name="Epic Bharat" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BW6T.png?lock=720x540" group-title="IN | HINDI GEC",EPIC BHARAT / Nazara (1080p)
-https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8
-#1961
-#EXTINF:-1 tvg-id="ShemarooTV.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_TV/images/LOGO_HD/image.png" group-title="IN | HINDI GEC",Shemaroo TV (720p) ShemarooTV.in@SD
-https://cdn-3.pishow.tv/live/230/master.m3u8
-#EXTINF:-1 tvg-id="ShemarooJosh.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00297P3E.png?lock=720x540" group-title="IN | HINDI GEC",Shemaroo Josh (720p)
-https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sports",Bioscopelive+
+https://d1voy022wjnlk0.bioscopelive.com/out/v1/0bbe405e711143b8af5ee21b80b5b0cc/index.m3u8|x-authorization=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiYzJkYjE1MjJmMDU0ZDg1Yzc3NmFmZjlkNDU2NjcxODNlNmZlNWNjYWUwYjAwNWI1OTVhMTAxY2RmNDNlYmIyY2YzMTBiZDExMTZlOTQ4YjEiLCJpYXQiOjE3ODA3OTcxMzEuNTQwNDAxLCJuYmYiOjE3ODA3OTcxMzEuNTQwNDAzLCJleHAiOjE4MTIzMzMxMzEuNTM1MDMyLCJzdWIiOiIxODAwMDA4NDg5MDA2NjUzNDQiLCJzY29wZXMiOlsibWFuYWdlX3Byb2ZpbGVzIl19.a6GUyqbwLfixROwUhNTzaYrrYBgVR6FHI_40FpjZ9l7P20WHcv-7AbEz-XPYhGnb1Q9JHAKdMA9pBY1Od2UZsYeEw6f7Myjc0VK2kqqXdagwHTlIHvHwxkoTVfpagQNiJF4ffJZ_6j87aCR6PEUEuTWQwjnLjbnvBpu0cgLUr5p56sHGm0mGV_vbIFirvZHVYwxLZGjBmo-njpfZcvuQPq5sUT3n-j4VNX4sh8tsvaAJaqlXLnq-DIGTBGNu9efsHNTiMzFUk5gEOYlWnNGewcbsuDsP3QFINeUBRzjBP9bPXjHfv5tmvKfQaExPZgFpxpWpZyQ5PZnmuxvWawNMKLBGV3qWqNPeVc1Fphhac3vloTNtMK5UP7EZtDRUQoJWra1irCMYn0ao1oEzfrtinhw038aNSe9z5EmF_tCi0XnQigVJM_XLwmgWbVxsWq92iC3HU2dHcelqMNiFk9gMleKIgGVA2sDeLfNsM0pco8656R7TySgSBycVvTyyU4_G1QVafpmPp5Lcmhi4KxVBAOAhY5iy0ZLDC4jO366wy_5yguY7sVPb6JWiUATVcBsLbvIPmgM9laQEZttxLMPHpnlPwUGljip5J61E235GXAV-WStahGaagjgja7dDRFwPVzvlMzSX9S7MpyVyRejmre60x8HvXkgCLhEfEn027YM
+#EXTINF:-1 tvg-id="" group-title="Sports",Unite8Sports2
+http://66.102.126.10:8000/play/a022/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sports",Unite8Sports2A
+http://212.102.34.8:9080/AndFlixHD/video.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sports", Bein Sports 1 - Serbia (FIFA)
+http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sports", Bein Sports 1
+https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sports", Bein Sports 2
+http://27.124.71.27/beIN_Sports_2/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sports", Bein Sports 3
+http://27.124.71.27/beIN_Sports_3/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sports", Bein Sports 4
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
-#EXTINF:-1 tvg-id="&TV@HD"  tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022RLRS.png?lock=720x540" tvg-country="IN" tvg-language="hin" tvg-id="AndTV.in" group-title="IN | HINDI GEC",&TV (ENG SUB) FHD [Digital No Ad]
-https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ZeeTV.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png" tvg-country="IN" tvg-language="hin" group-title="IN | HINDI GEC", ZEE TV HD IN NOW (TATA PLAY) NO AUDIO {UK 1080p UK / SA SERVER VIP (UK FEED Include UK ADVT)}
-http://gf120.vsfnzpoo.top:8080/VIP01251765102413153/837a593cc0cf/1753?Billybob.is.way.fly.for.a.white.guy!
+#EXTINF:-1 tvg-id="" group-title="Sports",SONY SPORTS 1HD
+http://stalker.hakunamata.workers.dev/play/1101/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sports",SONY SPORTS 2 HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/513.ts
+#EXTINF:-1 tvg-id="" group-title="Sports",SONY SPORTS 5 HD
+http://66.102.126.10:8000/play/a010/index.m3u8
 
-#01.2 HINDI MUSIC OK 
-#EXTINF:-1 tvg-id="9XM.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9XM/images/LOGO_HD/image.png" group-title="IN | MUSIC",9XM FHD (1080p)
-https://9xjio.wiseplayout.com/9XM/master.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s142504_ld_h15_aa.png?lock=360x270" tvg-country="IN" tvg-language="eng" group-title="IN | MUSIC",9X Tashan 1 FHD (1920x1080p)
-https://9xjio.wiseplayout.com/9X_Tashan/master.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s142504_ld_h15_aa.png?lock=360x270" tvg-country="IN" tvg-language="eng" group-title="IN | MUSIC",9X Tashan 2 FHD (1920x1080p)
-https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s142504_ld_h15_aa.png?lock=360x270" tvg-country="IN" tvg-language="eng" group-title="IN | MUSIC",9X Tashan 3 SD (1024x576p)
-https://cdn-2.pishow.tv/live/1613/master.m3u8
-#EXTINF:-1 tvg-id="440" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_JALWA/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="eng" group-title="IN | MUSIC",9X Jalwa 1 SD (720x576p)
-https://mumt03.tangotv.in/9XJALWA/index.m3u8
-#EXTINF:-1 tvg-id="440" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_JALWA/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="eng" group-title="IN | MUSIC",9X Jalwa 2 FHD (1920x1080p)
-https://jmp2.uk/stvp-INBC2800013L6
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ULm80XF.png" tvg-country="UK" tvg-language="eng" tvg-id="BritAsiaTV.uk" group-title="IN | MUSIC",Brit Asia TV FHD (1920x1080p)
-https://hls.autopo.st/hls/britasiatv/index.m3u8
 
-#EXTINF:-1 tvg-id="591" tvg-name="E 24" epg-id="1" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_E24/images/LOGO_HD/image.png" group-title="IN | MUSIC",E 24 (720x576p) jio Epg test (E24.in@SD)
-https://mumt04.tangotv.in/E24/index.m3u8
-#EXTINF:-1 tvg-id="250" epg-id="1" tvg-logo="https://dtil.tmsimg.com/assets/s143563_ld_h15_aa.png?lock=720x540" group-title="IN | MUSIC",Music India SD (1024x576p) jio Epg test MusicIndia.in@SD
-https://cdn-2.pishow.tv/live/226/master.m3u8
-#EXTINF:-1 tvg-id="YRFMusic.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png" group-title="IN | MUSIC",YRF Music (1080p)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-id="Zoom.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png" group-title="IN | MUSIC",Zoom
-https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
-#EXTINF:-1 tvg-id="Zing.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025L26R.png?lock=720x540" tvg-country="IN" tvg-language="hin"  group-title="IN | MUSIC",ZING [PAY]
-http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/304493
 
-#HINDI MUSIC NOT OK 
-#EXTINF:-1 tvg-id="Zoom.in@Global" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png" group-title="n",Zoom Global (720p)
-https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
 
-#01.1 PAY NEW
+#EXTINF:-1 tvg-id="" group-title="Movie", Sony Max
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=sony_max&e=.m3u8
+#EXTINF:-1 tvg-id="" group-title="Movie", Sony Max HD
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=sony_max_hd&e=.m3u8
+#EXTINF:-1 tvg-id="" group-title="Movie", Sony Max 2
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=sonymax_2&e=.m3u8
+#EXTINF:-1 tvg-id="" group-title="Movie", Star Gold
+http://198.195.239.50:8095/StarGold/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Movie", Goldmines
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="Movie", Goldmines Movies
+https://cdn-2.pishow.tv/live/1461/master.m3u8
 
-#Colors PAY
 
-#EXTINF:-1 tvg-id="144" tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="IN | HINDI GEC (PAY)", COLORS HD
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:17:01:63&stream=944612&extension=ts&play_token=fgT7ruSlXI
 
-#EXTINF:-1 tvg-id="482" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/colors-cineplex-in.png" group-title="IN | HINDI MOVIES (PAY)",COLORS CINEPLEX HD (AIRTEL)
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:17:01:63&stream=944627&extension=ts&play_token=8lXF8I0iuq
-
-#EXTINF:-1 tvg-id="482" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/colors-cineplex-in.png" group-title="IN | HINDI MOVIES (PAY)",COLORS CINEPLEX HD
-http://xcv70.fyi:8080/live/adil2912/adil1229/104191.ts
-
-#EXTINF:-1 tvg-id="482" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/colors-cineplex-in.png" group-title="IN | HINDI MOVIES (PAY)",COLORS CINEPLEX FHD
-http://xcv70.fyi:8080/live/adil2912/adil1229/206310.ts
-
-#STAR (PAY)
-
-#1132
-#EXTINF:-1 tvg-id="STARPlusHD.in" tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="IN | HINDI GEC (PAY)",STAR PLUS HD (AIRTEL) (1080p)
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:17:01:63&stream=671571&extension=ts&play_token=5iDIq6wufB
-
-#886
-#EXTINF:-1 tvg-id="STARPlusHD.in" tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="IN | HINDI GEC (PAY)",STAR PLUS HD (1080p) (CLEANED) ID StarPlusHD.in
-http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/16091
-
-#EXTINF:-1 tvg-id="STARPlusHD.in" tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="IN | HINDI GEC (PAY)",STAR PLUS HD (1080p) (CLEANED) ID StarPlusHD.in
-http://iptvtree.net:8080/mariopalberto/hdnc64dXsZy75/16091
-
-#EXTINF:-1 tvg-id="931" tvg-logo="https://i.imgur.com/Q8ajPij.png" group-title="IN | HINDI GEC (PAY)",STAR BHARAT SD
-http://103.253.18.58:8000/play/a00u
-
-#156 old epg
-#EXTINF:-1 tvg-id="StarGoldHD.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_HD/images/LOGO_HD/image.png" group-title="IN | HINDI MOVIES (PAY)",STAR GOLD HD [AIRTEL]
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:17:01:63&stream=737323&extension=ts&play_token=j1EjFaGwQC
-
-#1113
-#EXTINF:-1 tvg-id="StarGoldSelectHD.in" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/star-gold-select-in.png" group-title="IN | HINDI MOVIES (PAY)",STAR GOLD SELECT HD (AIRTEL) [1080p]
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:17:01:63&stream=737325&extension=ts&play_token=7jsKuiSEnt
-
-#EXTINF:-1 tvg-id="3097" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_ROMANCE/images/LOGO_HD/image.png" group-title="IN | HINDI MOVIES (PAY)",STAR GOLD ROMANCE SD [TATA PLAY]
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:17:01:63&stream=373004&extension=ts&play_token=Mtn9hdNExJ
-
-#EXTINF:-1 tvg-id="3097" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_ROMANCE/images/LOGO_HD/image.png" group-title="IN | HINDI MOVIES (PAY)",STAR GOLD ROMANCE SD [AIRTEL]
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:17:01:63&stream=1433164&extension=ts&play_token=CE3YzTP3l4
-
-#EXTINF:-1 tvg-id="3098" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_THRILLS/images/LOGO_HD/image.png" group-title="IN | HINDI MOVIES (PAY)",STAR GOLD THRILLS SD (AIRTEL)
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:17:01:63&stream=373005&extension=ts&play_token=YjJ6ACJ8Wo
-
-#EXTINF:-1 tvg-id="1104" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png" group-title="IN | HINDI MOVIES (PAY)",STAR MOVIES HD (TATA PLAY)
-http://xcv70.fyi:8080/live/adil2912/adil1229/66213.ts
-
-#SONY PAY
-
-#EXTINF:-1 tvg-id="291" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET_HD/images/LOGO_HD/image.png" group-title="IN | HINDI GEC (PAY)", SONY HD [AIRTEL]
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:17:01:63&stream=943926&extension=ts&play_token=HQaBG00BmA
-
-#EXTINF:-1 tvg-id="2832" tvg-logo="https://dtil.tmsimg.com/assets/s159098_ld_h15_aa.png?lock=720x540" group-title="IN | HINDI MOVIES (PAY)", SONY MAX HD [AIRTEL]
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:17:01:63&stream=373074&extension=ts&play_token=CuPocChLF4
-
-#EXTINF:-1 tvg-id="483" tvg-logo="https://i.imgur.com/gqUYk6C.png" group-title="IN | HINDI MOVIES (PAY)",SONY MAX 2 SD (AIRTEL)
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:17:01:63&stream=373073&extension=ts&play_token=ho3jalf7IM
-
-#EXTINF:-1 tvg-id="762" tvg-name="Sony Pix" tvg-logo="https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png" group-title="IN | HINDI MOVIES (PAY)", SONY PIX HD [AIRTEL]
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:17:01:63&stream=943971&extension=ts&play_token=ndxhmrFOkm
-
-#EXTINF:-1 tvg-id="116" tvg-logo="https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540" group-title="IN | HINDI GEC (PAY)", SONY SAB HD [AIRTEL]
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:17:01:63&stream=944604&extension=ts&play_token=nqmlNDpzw0
-
-#EXTINF:-1 tvg-id="474" tvg-logo="https://dtil.tmsimg.com/assets/s157973_ld_h15_aa.png?lock=720x540" group-title="IN | HINDI GEC (PAY)",SONY PAL SD (DD FREE DISH)
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:17:01:63&stream=372991&extension=ts&play_token=stO6UBe1NS
-
-#EXTINF:-1 tvg-id="821" tvg-logo="https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540" group-title="IN | INFO (PAY)",SONY BBC EARTH HD [AIRTEL]
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:17:01:63&stream=373071&extension=ts&play_token=QcXQt3kfyj
-
-#ZEE PAY
-
-#167
-
-#EXTINF:-1 tvg-id="ZeeTVHD.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYLG3.png?lock=720x540" group-title="IN | HINDI GEC (PAY)", ZEE TV HD [AIRTEL]
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:17:01:63&stream=735398&extension=ts&play_token=GINYcm8A3B
-
-#EXTINF:-1 tvg-id="ZeeTVHD.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYLG3.png?lock=720x540" group-title="IN | HINDI GEC (PAY)", ZEE TV HD [AIRTEL] EPG TEST
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:17:01:63&stream=735398&extension=ts&play_token=GINYcm8A3B
-
-#123
-#EXTINF:-1 tvg-id="ZeeCinema.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540" group-title="IN | HINDI MOVIES (PAY)", ZEE CINEMA HD [AIRTEL]
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:17:01:63&stream=735399&extension=ts&play_token=TWphvLHRRR
-
-#EXTINF:-1 tvg-id="488" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-action-in.png" group-title="IN | HINDI MOVIES (PAY)",ZEE ACTION 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:17:01:63&stream=735400&extension=ts&play_token=ZXZR4WXvIz
-
-#EXTINF:-1 tvg-id="487" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-bollywood-in.png" group-title="IN | HINDI MOVIES (PAY)",ZEE BOLLYWOOD 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:17:01:63&stream=372924&extension=ts&play_token=wNVFJ72Cre
-
-#EXTINF:-1 tvg-id="1691" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-classic-in.png" group-title="IN | HINDI MOVIES (PAY)",ZEE ACTION 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:17:01:63&stream=735401&extension=ts&play_token=Oa94cVK34Q
-
-#1359
-#EXTINF:-1 tvg-id="BIGMagic.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002YJ850.png?lock=720x540" group-title="IN | HINDI MOVIES (PAY)",BIG MAGIC (AIRTEL) 🅿️
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:17:01:63&stream=944626&extension=ts&play_token=fdmtYUa6rU
-
-#EXTINF:-1 tvg-id="1373" tvg-logo="https://dtil.tmsimg.com/assets/s158843_ld_h15_aa.png?lock=720x540" group-title="IN | HINDI GEC (PAY)", DISNEY CHANNEL 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:17:01:63&stream=372986&extension=ts&play_token=8zu9mfjw2P
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="n", unknown 
-https://go.telemetr.io/go?from=channel&url=http%3A%2F%2Fsuiptv265.xyz%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AB6%3AC5%3A3D%26stream%3D281315%26extension%3Dts%26play_token%3DWgfROIUfaF
-
-#EXTINF:-1 tvg-id="415" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA/images/LOGO_HD/LOGO_HD_image.png" group-title="IN | HINDI MOVIES (PAY)",ANMOL CINEMA AIRTEL
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:17:01:63&stream=373000&extension=ts&play_token=2zxTUlOafu
-
-#EXTINF:-1 tvg-id="161" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025L26R.png?lock=720x540" group-title="IN | HINDI GEC (PAY)",ZING INDIA AIRTEL
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:17:01:63&stream=737321&extension=ts&play_token=TcNwloHwbv
-
-#EXTINF:-1 tvg-id="161" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025L26R.png?lock=720x540" group-title="IN | HINDI GEC (PAY)"ZING INDIA AIRTEL 2
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:17:01:63&stream=733524&extension=ts&play_token=zYzxU7Vru4
-
-#ZEE UNITE 8
-#1319
-#EXTINF:-1 tvg-id="ZeeCafeHD.in" tvg-logo="https://raw.githubusercontent.com/13balvinder/Logos/refs/heads/main/LOGOS/INDIA/zee-unite8-sports-logo-2026-06-02-11-22-35-crop.png" grou
+#EXTINF:-1 tvg-id="DDBangla.in" tvg-logo="https://i.imgur.com/RHly9gC.png" group-title="Bangla",DD Bangla
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index.m3u8
+#EXTINF:-1 tvg-id="DDArunPrabha.in@SD" group-title="DD",DD Arun Prabha (360p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/308556d9fd1246adb479ef012a39bbfe/index.m3u8
+#EXTINF:-1 tvg-id="DDAssam.in@SD" group-title="DD",DD Assam (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/d380bf5c167b4319a46cdd8204bc26b2/index.m3u8
+#EXTINF:-1 tvg-id="DDBharati.in@SD" group-title="DD" ,DD Bharati (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8
+#EXTINF:-1 tvg-id="DDBihar.in@SD" group-title="DD" ,DD Bihar (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/380b0765f87741a4812bc952ec6fbf21/index.m3u8
+#EXTINF:-1 tvg-id="DDChandana.in@SD" group-title="DD" ,DD Chandana (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/0c980455d2fb4b69bcc6235745ee6039/index.m3u8
+#EXTINF:-1 tvg-id="DDChhattisgarh.in@SD" group-title="DD",DD Chhattisgarh (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/5078083881bc489ea14f4c85e7abe4d6/index.m3u8
+#EXTINF:-1 tvg-id="DDGirnar.in@SD"group-title="DD" ,DD Girnar (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/558fdb9aebb54bb5bbbf0ced03686148/index.m3u8
+#EXTINF:-1 tvg-id="DDGoa.in@SD" group-title="DD" ,DD Goa (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e5b9db1cc184406bb97159da2f120f91/index.m3u8
+#EXTINF:-1 tvg-id="DDHaryana.in@SD" group-title="DD" ,DD Haryana (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/950fc69666474351bde0a32b9600c804/index.m3u8
+#EXTINF:-1 tvg-id="DDHimachalPradesh.in@SD" group-title="DD" ,DD Himachal Pradesh (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/afd2e335b0ba40eb9bdf1096118c6ede/index.m3u8
+#EXTINF:-1 tvg-id="DDIndia.in@SD" group-title="DD" ,DD India (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8
+#EXTINF:-1 tvg-id="DDJharkhand.in@SD" group-title="DD" ,DD Jharkhand (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e8c3741f8c154d3185831f4e31777fb2/index.m3u8
+#EXTINF:-1 tvg-id="DDKashir.in@SD" group-title="DD" ,DD Kashir (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/8a59a828e80c49d0958925950cec0204/index.m3u8
+#EXTINF:-1 tvg-id="DDKisan.in@SD" group-title="DD" ,DD Kisan (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8
+#EXTINF:-1 tvg-id="DDMadhyaPradesh.in@SD" group-title="DD" ,DD Madhya Pradesh (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b5256b391a7c4ae6977535b73fd6f591/index.m3u8
+#EXTINF:-1 tvg-id="DDMalayalam.in@SD" group-title="DD" ,DD Malayalam (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/c313674ffced4c9a90f1bba436df2b9b/index.m3u8
+#EXTINF:-1 tvg-id="DDManipur.in@SD" group-title="DD",DD Manipur (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/8b75afc6576f450e8f554b6c877681d2/index.m3u8
+#EXTINF:-1 tvg-id="DDMeghalaya.in@SD" group-title="DD",DD Meghalaya (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/4f81bc8d13dd49b484da35988abb8729/index.m3u8
+#EXTINF:-1 tvg-id="DDMizoram.in@SD" group-title="DD",DD Mizoram (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/eea48c6b61074052a2fa8532ff795ff1/index.m3u8
+#EXTINF:-1 tvg-id="DDNagaland.in@SD" group-title="DD",DD Nagaland (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/29c92e0bef954a6d9b0908d1be29c1f0/index.m3u8
+#EXTINF:-1 tvg-id="DDNational.in@HD" group-title="DD",DD National HD (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
+#EXTINF:-1 tvg-id="DDNews.in@HD" group-title="DD",DD News HD (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
+#EXTINF:-1 tvg-id="DDOdia.in@SD" group-title="DD",DD Odia (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ef4ea632b77a480ebd77106968aa99a9/index.m3u8
+#EXTINF:-1 tvg-id="DDPunjabi.in@SD" group-title="DD",DD Punjabi (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/da821c24a59d4e57960497aeaca8fb33/index.m3u8
+#EXTINF:-1 tvg-id="DDRajasthan.in@SD" group-title="DD",DD Rajasthan (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/5b6bbbf682b741ecbe279f75a4a9a3e6/index.m3u8
+#EXTINF:-1 tvg-id="DDSahyadri.in@SD" group-title="DD",DD Sahyadri (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c/index.m3u8
+#EXTINF:-1 tvg-id="DDSaptagiri.in@SD" group-title="DD",DD Saptagiri (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/26e915d6d12b4a06822c5e33c088ed56/index.m3u8
+#EXTINF:-1 tvg-id="DDSports.in@SD" group-title="DD",DD Sports HD (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+#EXTINF:-1 tvg-id="DDTamil.in@SD" group-title="DD",DD Tamil (1080p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8
+#EXTINF:-1 tvg-id="DDTripura.in@SD" group-title="DD",DD Tripura (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/52b998e9510d41c29ad2ceca8ea3d849/index.m3u8
+#EXTINF:-1 tvg-id="DDUrdu.in@SD" group-title="DD",DD Urdu (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/9b91e9007e754db39a8b32c6bfc5b24a/index.m3u8
+#EXTINF:-1 tvg-id="DDUttarPradesh.in@SD" group-title="DD",DD Uttar Pradesh (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/70d4f6874fa64032a685e3123520f07d/index.m3u8
+#EXTINF:-1 tvg-id="DDUttarakhand.in@SD" group-title="DD",DD Uttarakhand (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a70323c56ac647c2a8c8fc34e4c73912/index.m3u8
+#EXTINF:-1 tvg-id="DDYadagiri.in@SD" group-title="DD",DD Yadagiri (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/c89fa6d6f5864ac29670d6f91cb7e32a/index.m3u8
